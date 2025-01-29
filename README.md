@@ -38,7 +38,7 @@ Technologies Used
 🟢 React.js – For building the user interface and managing state.
 🟢 HTML & CSS – For structuring and styling the app.
 🟢 JavaScript (ES6) – For handling conversions and calculations.
-🟢 API Integration (Optional) – Can use a currency exchange API for live rates.
+🟢 API Integration  –  use a currency exchange API for live rates.
 
 sample output :
 ![image](https://github.com/user-attachments/assets/99e56062-6946-4b06-8649-69034bbccd1e)
